@@ -1,0 +1,38 @@
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.exe
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.deps.json
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.runtimeconfig.json
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.dll
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.pdb
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.csproj.AssemblyReference.cache
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad_v2.Form1.resources
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.csproj.GenerateResource.cache
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.AssemblyInfoInputs.cache
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.AssemblyInfo.cs
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.csproj.CoreCompileInputs.cache
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.dll
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\refint\Notepad v2.dll
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.pdb
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.genruntimeconfig.cache
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\ref\Notepad v2.dll
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad_v2.AboutProgram.resources
+C:\Users\StudentApple\source\repos\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad_v2.Properties.Resources.resources
+D:\C# практика\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.exe
+D:\C# практика\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.deps.json
+D:\C# практика\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.runtimeconfig.json
+D:\C# практика\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.dll
+D:\C# практика\Notepad v2\Notepad v2\bin\Debug\net6.0-windows\Notepad v2.pdb
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.csproj.AssemblyReference.cache
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad_v2.AboutProgram.resources
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad_v2.Form1.resources
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad_v2.Properties.Resources.resources
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.csproj.GenerateResource.cache
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.AssemblyInfoInputs.cache
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.AssemblyInfo.cs
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.csproj.CoreCompileInputs.cache
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.dll
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\refint\Notepad v2.dll
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.pdb
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\Notepad v2.genruntimeconfig.cache
+D:\C# практика\Notepad v2\Notepad v2\obj\Debug\net6.0-windows\ref\Notepad v2.dll
