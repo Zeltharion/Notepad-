@@ -20,7 +20,7 @@ namespace Notepad_v2
 
         private void OnVkLinkCliked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            var ps = new ProcessStartInfo("http://vk.com/Serbenlyw")
+            var ps = new ProcessStartInfo("http://vk.com")
             {
                 UseShellExecute = true,
                 Verb = "open"
